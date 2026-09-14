@@ -20,3 +20,5 @@ MonoBehaviour:
   defenseBase: 100
   skills:
   - {fileID: 11400000, guid: 6ceaabe9e4bd40547b0b66335234dd07, type: 2}
+  ownedCards:
+  - {fileID: 11400000, guid: 2a3858fb7960d134aab7241b0a8ea8a7, type: 2}
